@@ -1,0 +1,23 @@
+#search {
+  cursor: pointer;
+  width: 40px;
+  margin-top: 10px;
+}
+#inp {
+  height: 30px;
+  margin-left: 25%;
+  width: 500px;
+  float: left;
+  margin-top: 10px;
+}
+#search_div {
+  float: left;
+}
+#youtube_img {
+  float: left;
+  width: 200px;
+  margin-top: -15px;
+}
+#search_box {
+  margin-top: 20px;
+}
